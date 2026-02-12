@@ -1,0 +1,11 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.buildBeforeRun": true,
+    "cmake.configureSettings": {
+        "CMAKE_BUILD_TYPE": "Debug"
+    },
+    "cmake.defaultVariants": {
+        "buildType": "Debug"
+    },
+    "cmake.preset": "mingw64-debug"
+}
